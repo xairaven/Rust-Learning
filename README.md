@@ -15,6 +15,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 1. [Getting Started!](./01-Getting-Started) <br>
 2. [Programming a Guessing Game](./02-Programming-a-Guessing-Game) <br>
 3. [Common Programming Concepts](./03-Common-Programming-Concepts) <br>
+4. [Understanding Ownership](./04-Understanding-Ownership) <br>
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
