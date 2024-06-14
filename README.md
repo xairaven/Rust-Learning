@@ -18,6 +18,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 4. [Understanding Ownership](./04-Understanding-Ownership) <br>
 5. [Using Structs to Structure Related Data](./05-Structs) <br>
 6. [Enums and Pattern Matching](./06-Enums-and-Pattern-Matching) <br>
+7. [Managing Growing Projects with Packages, Crates, and Modules](./07-Packages-Crates-Modules) <br>
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
