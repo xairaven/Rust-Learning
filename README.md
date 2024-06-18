@@ -12,14 +12,15 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 **Rust Book: https://doc.rust-lang.org/stable/book/**
 
 ### Table of Contents
-1. [Getting Started!](./01-Getting-Started) <br>
-2. [Programming a Guessing Game](./02-Programming-a-Guessing-Game) <br>
-3. [Common Programming Concepts](./03-Common-Programming-Concepts) <br>
-4. [Understanding Ownership](./04-Understanding-Ownership) <br>
-5. [Using Structs to Structure Related Data](./05-Structs) <br>
-6. [Enums and Pattern Matching](./06-Enums-and-Pattern-Matching) <br>
-7. [Managing Growing Projects with Packages, Crates, and Modules](./07-Packages-Crates-Modules) <br>
-8. [Common Collections](./08-Common-Collections) <br>
+1. [Getting Started!](./01-Getting-Started)
+2. [Programming a Guessing Game](./02-Programming-a-Guessing-Game)
+3. [Common Programming Concepts](./03-Common-Programming-Concepts)
+4. [Understanding Ownership](./04-Understanding-Ownership)
+5. [Using Structs to Structure Related Data](./05-Structs)
+6. [Enums and Pattern Matching](./06-Enums-and-Pattern-Matching)
+7. [Managing Growing Projects with Packages, Crates, and Modules](./07-Packages-Crates-Modules)
+8. [Common Collections](./08-Common-Collections)
+9. [Error Handling](./09-Error-Handling)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
