@@ -22,6 +22,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 8. [Common Collections](./08-Common-Collections)
 9. [Error Handling](./09-Error-Handling)
 10. [Generic Types, Traits, and Lifetimes](./10-Generic-Types-Traits-Lifetimes)
+11. [Writing Automated Tests](./11-Writing-Automated-Tests)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
