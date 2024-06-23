@@ -24,6 +24,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 10. [Generic Types, Traits, and Lifetimes](./10-Generic-Types-Traits-Lifetimes)
 11. [Writing Automated Tests](./11-Writing-Automated-Tests)
 12. [An I/O Project: Building a Command Line Program](./12-An-IO-Project)
+13. [Functional Language Features: Iterators and Closures](./13-Iterators-Closures)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
