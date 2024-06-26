@@ -26,6 +26,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 12. [An I/O Project: Building a Command Line Program](./12-An-IO-Project)
 13. [Functional Language Features: Iterators and Closures](./13-Iterators-Closures)
 14. [More about Cargo and Crates.io](./14-More-About-Cargo)
+15. [Smart Pointers](./15-Smart-Pointers)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
