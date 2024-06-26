@@ -1,0 +1,1 @@
+[Environment]::SetEnvironmentVariable("PATH", $env:PATH + ";$HOME/.cargo/bin", [EnvironmentVariableTarget]::User)
