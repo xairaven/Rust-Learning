@@ -1,0 +1,11 @@
+[package]
+name = "project"
+
+# License: https://spdx.org/licenses/
+# You can use "license-file" instead of "license"
+license = "MIT OR Apache-2.0"
+
+# Semantic versioning: https://semver.org
+version = "0.1.0"
+edition = "2024"
+description = "Nice description for the nice project."
