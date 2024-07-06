@@ -29,6 +29,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 15. [Smart Pointers](./15-Smart-Pointers)
 16. [Fearless Concurrency](./16-Fearless-Concurrency)
 17. [Object-Oriented Programming Features of Rust](./17-Object-Oriented-Programming)
+18. [Patterns and Matching](./18-Patterns-and-Matching)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
