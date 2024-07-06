@@ -30,6 +30,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 16. [Fearless Concurrency](./16-Fearless-Concurrency)
 17. [Object-Oriented Programming Features of Rust](./17-Object-Oriented-Programming)
 18. [Patterns and Matching](./18-Patterns-and-Matching)
+19. [Advanced Features](./19-Advanced-Features)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
