@@ -31,6 +31,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 17. [Object-Oriented Programming Features of Rust](./17-Object-Oriented-Programming)
 18. [Patterns and Matching](./18-Patterns-and-Matching)
 19. [Advanced Features](./19-Advanced-Features)
+20. [Final Project: Building a Multithreaded Web Server](./20-Final-Project)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
