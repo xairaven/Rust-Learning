@@ -9,6 +9,8 @@ If you find anything incorrect you can create an issue or open a pull request.<b
 
 These are my personal solutions, so only corrections are accepted. Solutions to missing exercises are not needed! <br>
 
+**Status:** *Done (07.07.2024)*
+
 **Rust Book: https://doc.rust-lang.org/stable/book/**
 
 ### Table of Contents
